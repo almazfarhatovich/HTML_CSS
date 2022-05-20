@@ -1,0 +1,61 @@
+.text{
+    color: deeppink;
+    margin-left: 100px;
+}
+#login{
+    background-color: deeppink;
+
+}
+form{
+    background-color: white;
+    width: 350px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: 0 auto;
+
+}
+.container{
+    width: 100vw;
+    height: 100vw;
+    background-color: pink;
+    overflow: hidden;
+}
+.formContent {
+    width: 600px;
+    margin: 0 auto;
+}
+input{
+    display: block;
+    padding: 5px 10px ;
+    outline: none;
+    margin: 25px 10px 10px 10px;
+    width: 300px;
+    border-radius: 25px;
+
+
+}
+
+input:focus{
+    border: 1px solid pink;
+}
+input:hover{
+    background-color: aqua;
+}
+#for{
+    margin-left: 120px;
+    display: block;
+    border-radius: 25px;
+    margin-top: 20px;
+}
+#sub{
+    display: block;
+    margin-left: 120px;
+    border-radius: 15px;
+    background-color: deeppink;
+    width: 100px;
+}
+#pass{
+    text-decoration: none;
+
+    margin-left: 120px;
+}
